@@ -1,8 +1,8 @@
-print("test l2")
+print("test l2;")
 
-print("one more")
+print("one more;")
 
-print("ветвление веток")
-print("advanced")
+print("ветвление веток;")
+print("advanced;")
 
-print("str after changed master with ;")
+print("str after changed master with ;;")
