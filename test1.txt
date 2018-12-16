@@ -3,3 +3,4 @@ print("test l2")
 print("one more")
 
 print("ветвление веток")
+print("advanced")
