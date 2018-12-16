@@ -1,5 +1,5 @@
-print("test l2")
+print("test l2;")
 
-print("one more")
+print("one more;")
 
-print("ветвление веток")
+print("ветвление веток;")
