@@ -1,8 +1,8 @@
 <h4 align="center">
-PowerShell script for exporting IIS statistics by user to the DB
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PowerShell_Core_6.0_icon.png/80px-PowerShell_Core_6.0_icon.png"></img>PowerShell script for exporting IIS statistics by user to the DB
 </h4>
 
-## ***Introduction!***
+## ***Introduction***
 With that powershell script you can export statistics from your IIS server any site logs to the SQL databases.
 But, first you need to install ***Microsoft LogParser*** on the server.
 
