@@ -3,8 +3,8 @@
 </h4>
 
 - ## ***Introduction***
-  With that powershell script you can export statistics from your IIS server any site logs to the SQL databases.
-  But, first you need to install ***Microsoft LogParser*** on the server.
+With that powershell script you can export statistics from your IIS server any site logs to the SQL databases.
+But, first you need to install ***Microsoft LogParser*** on the server.
 
 - ## ***Getting started***
 1. **Microsoft LogParser**, [`download`](https://www.microsoft.com/en-us/download/details.aspx?id=24659) and install
@@ -24,4 +24,4 @@
 5. **Run** and **enjoy**
 
 - ## ***License***
-  GPLv3
+GPLv3
